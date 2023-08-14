@@ -1,0 +1,17 @@
+{
+    "name": "giovanni/php-phpunit-001",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "PhpPhpunit001\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Giovanni Rodriguez",
+            "email": "hector.ramos@dportenis.com.mx"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
